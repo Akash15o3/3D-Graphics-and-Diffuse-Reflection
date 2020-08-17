@@ -3,12 +3,9 @@ Use of LPC 1769 and McuXpresso as Software to display 3D Graphics and Diffuse Re
 
 # Lab 3 Shading Models for Advanced Microprocessor 3D GE Design   
 
-1. This lab is for 3D shading model and diffuse reflection computation on 
-   LPC1769 micro processor platform, you will need to 
-   (1) generate 3 decorated solid cubes, each with different size, and with 
-       different orientation angle (orientation of the cube is by its normal 
-       vector, denoted here as n=(nx, ny, nz), which is a vector perpendicular 
-       to the top surface of the cube). 
+# 1. This lab is for 3D shading model and diffuse reflection computation on LPC1769 micro processor platform, you will need to 
+   (1) generate 3 decorated solid cubes, each with different size, and with different orientation angle (orientation of the cube is by its normal 
+       vector, denoted here as n=(nx, ny, nz), which is a vector perpendicular  to the top surface of the cube). 
    (2) Note, you may want to try the size of the cube with side length of 50 
        to begin with, and the virtual camera location E = (ex,ey,ez) = 
        (100, 100, 100) for example.  
